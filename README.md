@@ -12,4 +12,4 @@
 
 😄 Pronouns: Mr
 
-⚡ Fun fact: I’m a PhD student in Neurophysiology and a Lecturer at the University of Lagos, bridging academia and real-world software engineering.
+⚡ Fun fact: I’m a Medical Practitioner and a Researcher

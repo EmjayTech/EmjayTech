@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @EmjayTech
-- 👀 I’m interested in Software development Jobs
-- 🌱 I’m a Full Stack Developer and my stacks are React and Node js and i can also make use of Vue js. I am proficient is version control system (Git / GitHub actions)
-- 💞️ I’m looking to collaborate on any available team jobs or development projects.
-- 📫 How to reach me (+2348032877945)
-- 😄 Pronouns: Mr
-- ⚡ Fun fact: Do you know that EmjayTech is a PhD Student in Nuerophysiology and currently works a Lecturer in University of Lagos.
+👋 Hi, I’m @EmjayTech
 
-<!---
-EmjayTech/EmjayTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Full-Stack & Mobile Developer actively open to software development roles and contract opportunities
+
+🛠️ Tech Stack: React, Node.js, Vue.js, React Native, Kotlin
+
+🔧 Proficient in version control & CI/CD using Git and GitHub Actions
+
+🤝 Open to collaborating on team-based roles, open-source contributions, and production-grade projects
+
+📫 Contact: +234 803 287 7945
+
+😄 Pronouns: Mr
+
+⚡ Fun fact: I’m a PhD student in Neurophysiology and a Lecturer at the University of Lagos, bridging academia and real-world software engineering.
